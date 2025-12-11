@@ -1,4 +1,4 @@
-# LLM Trust Games Experiment Framework
+# Synthetic Economic Agents Experiment Framework
 
 This project implements a framework for conducting trust game experiments with Large Language Models (LLMs). It allows researchers to systematically test how different LLMs behave in economic trust games by configuring prompts and collecting structured responses.
 
@@ -14,7 +14,7 @@ This project implements a framework for conducting trust game experiments with L
 ## Project Structure
 
 ```
-LLM_trust_games/
+synthetic-econ-agents/
 ├── app/                 # Core framework modules
 │   ├── models.txt       # List of supported models
 │   └── model_framework.py # Main framework implementation
@@ -30,8 +30,8 @@ LLM_trust_games/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/mrbigant343/LLM_trust_games.git
-   cd LLM_trust_games
+   git clone https://github.com/mrbigant343/synthetic-econ-agents.git
+   cd synthetic-econ-agents
    ```
 
 2. **Set up Python environment**:
