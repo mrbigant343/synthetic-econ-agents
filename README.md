@@ -1,6 +1,6 @@
 # Synthetic Economic Agents Experiment Framework
 
-This project implements a framework for conducting trust game experiments with Large Language Models (LLMs). It allows researchers to systematically test how different LLMs behave in economic trust games by configuring prompts and collecting structured responses.
+This project implements a framework for conducting economic game experiments with Large Language Models (LLMs). It allows researchers to systematically test how different LLMs behave in economic games by configuring prompts and collecting structured responses.
 
 ## Features
 
